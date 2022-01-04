@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you might open to hire remote React Vue Python Golang Rust Nodejs Developer in near future, consider to schedule a quick zoom call with me or chat. See contacts below. 
+If you might open to hire remote React Vue Python Golang Rust Nodejs Developer in near future or simply brainstorm on tech stack, please consider to talk. Quick WhatsApp or Zoom call will work best. See contact details below.
 
 Skills 
 
