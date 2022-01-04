@@ -48,8 +48,8 @@ NDA/SLA if necessary
 
 📫 How to reach me:
 
-WhatsApp: +81 80 4756 2323  
-Telegram: @reactima
-https://t.me/reactima
-1@ilya1.com
-https://www.linkedin.com/in/reactima-san-francisco/
+- WhatsApp: +81 80 4756 2323  
+- Telegram: @reactima
+- https://t.me/reactima
+- 1@ilya1.com
+- https://www.linkedin.com/in/reactima-san-francisco/
