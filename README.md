@@ -18,15 +18,15 @@ Skills
 
 Accumulated over a decade of web development experience, including the development of CRM tools, complicated data visualizations and analytics.
 
-Used to live between SF, Tokyo, HK and Singapore, and built a very strong network on professionals to tip into 
+Used to live between SF, Tokyo, HK and Singapore, and built a very strong network on professionals to tip into.
 
-I'm following “One project at a time” policy.
+Follow “one project at a time” policy.
 
 You can expect the full control and transparency over your project.
 
-Attendance in for a conference call in any time zone with 12 hours.
+Attendance for a conference call in any time zone within 12 hours notice.
 
-NDA/SLA if necessary
+NDA/SLA if necessary.
 
 📫 How to reach me:
 
