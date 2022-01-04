@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Open for to work remote as React Vue Python Golang Rust Nodejs Developer.
+If you might open to hire remote React Vue Python Golang Rust Nodejs Developer in near future, consider to schedule a quick zoom call with me or chat. See contacts below. 
 
-Skills
+Skills 
 
 - Front-end : React.js with Hooks and Typescript, Angular.js, Vue.js, D3.js, Highcharts, Recharts.js, Slate.js, etc
 - Back-end : Node.js, Python, Golang, Rust
@@ -16,9 +16,9 @@ Skills
 - Monitoring: Elastic, Kibana, Sentry, Graphana, Prometheus
 - AWS: Lambda, DynamoDB, Route 53, EC2, SNS, SQS, Cloudwatch
 
-Accumulated over a decade of web development experience, including the development of CRM tools, complicated data visualization and analytics.
+Accumulated over a decade of web development experience, including the development of CRM tools, complicated data visualizations and analytics.
 
-Used to live between SF, Tokyo, HK and Singapore. 
+Used to live between SF, Tokyo, HK and Singapore, and built a very strong network on professionals to tip into 
 
 I'm following “One project at a time” policy.
 
