@@ -10,10 +10,10 @@ Skills
 - DS: NLP/NLU with Spacy.io
 - Databases : Redis, MySQL, PostgreSQL, Elastic
 - Messaging : RabbitMQ, Redis
-- Libs: gRPC, GraphQL
+- APIs: gRPC, GraphQL
 - Auth: OAuth, JWT, ACL, RBAC
 - DevOps : Ubuntu, Docker, Dokku, Kubernetes, Terraforms, Logstash
-- Monitoring: Elastic, Kibana, Sentry, Graphana, Prometheus
+- Monitoring: Elastic, Kibana, Sentry, Grafana, Prometheus
 - AWS: Lambda, DynamoDB, Route 53, EC2, SNS, SQS, Cloudwatch
 
 Accumulated over a decade of web development experience, including the development of CRM tools, complicated data visualizations and analytics.
