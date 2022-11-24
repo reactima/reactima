@@ -1,13 +1,24 @@
 ### Hi there 👋
 
-If you might open to hire remote React Vue Python Golang Rust Nodejs Developer in near future or simply brainstorm on tech stack, please consider to talk. Quick WhatsApp or Zoom call will work best. See contact details below.
+If you might open to hire remote React, Python, Golang, Rust, Nodejs Developer in near future or simply brainstorm on tech stack, please consider to talk. 
+
+Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
+
+- Built niche Reactima CRM for Data Mining, Lead Generation and Recruitment with React, Golang, Python, K8s, PostgreSQL, spaCy.io and custom Chrome Extensions
+- PoC for Zero Trust Network Access SaaS
+- AIOps for spaCy.io, Whisper models with C++, C-binding to Rust, Swift, Golang 
+- iTunes like asset management platform for creative people wiht React, TS, Nodejs, AWS, 
+- Google Ads bidding system with Go and vanilla Javascript 
+- Webcrawlers with Go and Python 
+- Wireguard based private network solutions based on bash script, go-wireguard, boringtun 
+- Custom CRMs for real estate, recruitment and finance industries
 
 Skills 
 
 - Front-end : React.js with Hooks and Typescript, Angular.js, Vue.js, D3.js, Highcharts, Recharts.js, Slate.js, etc
 - Back-end : Node.js, Python, Golang, Rust
 - Frameworks : Express.js, Echo Labstack, Flask, Tokio, Rayon
-- DS: NLP/NLU with Spacy.io
+- Data Science: Whisper, NLP/NLU with Spacy.io, C++ and Python
 - Databases : Redis, MySQL, PostgreSQL, Elastic
 - Messaging : RabbitMQ, Redis
 - APIs: gRPC, GraphQL
@@ -34,4 +45,4 @@ NDA/SLA if necessary.
 - Telegram: @reactima
 - https://t.me/reactima
 - 1@ilya1.com
-- https://www.linkedin.com/in/reactima-san-francisco/
+- https://www.linkedin.com/in/reactima/
