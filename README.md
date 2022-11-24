@@ -4,6 +4,8 @@ If you might open to hire remote React, Python, Golang, Rust, Nodejs Developer i
 
 Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
 
+![need-for-speed-heat-nfs](https://user-images.githubusercontent.com/15165494/203860579-e20b9047-747f-4860-94e2-c3b98ccfd714.gif)
+
 - Built niche Reactima CRM for Data Mining, Lead Generation and Recruitment with React, Golang, Python, K8s, PostgreSQL, spaCy.io and custom Chrome Extensions
 - PoC for Zero Trust Network Access SaaS
 - AIOps for spaCy.io, Whisper models with C++, C-binding to Rust, Swift, Golang 
