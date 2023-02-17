@@ -17,17 +17,18 @@ Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
 
 Skills 
 
-- Front-end : React.js with Hooks and Typescript, Angular.js, Vue.js, D3.js, Highcharts, Recharts.js, Slate.js, etc
-- Back-end : Node.js, Python, Golang, Rust
-- Frameworks : Express.js, Echo Labstack, Flask, Tokio, Rayon
-- Data Science: Whisper, NLP/NLU with Spacy.io, C++ and Python
-- Databases : Redis, MySQL, PostgreSQL, Elastic
-- Messaging : RabbitMQ, Redis
-- APIs: gRPC, GraphQL
-- Auth: OAuth, JWT, ACL, RBAC
-- DevOps : Ubuntu, Docker, Dokku, Kubernetes, Terraforms, Logstash
-- Monitoring: Elastic, Kibana, Sentry, Grafana, Prometheus
-- AWS: Lambda, DynamoDB, Route 53, EC2, SNS, SQS, Cloudwatch
+- Front-end: React, Typescript, Angular, Vue, D3, ECharts, Slate, etc
+- Back-end: Node, Python, Golang, Rust, C++
+- ML: Spacy.io, Whisper, Transformers
+- Databases: Redis, MySQL, PostgreSQL, Elastic
+- Messaging, Queue: RabbitMQ, Redis, Celery
+- API: Code, documentation generation for REST, Websockets, gRPC, GraphQL
+- Auth: OAuth, JWT, ACL, Ory Ladon, Open Policy Agent
+- DevOps: Ubuntu, Docker, Dokku, Kubernetes, Terraforms
+- Monitoring: Elastic, Kibana, Logstash, Sentry, Graphana, Prometheus, Promtail, Loki
+- Storage: AWS S3, Minio
+- Data Engineering: Airflow, Temporal.io
+- AWS: EKS, Lambda, DynamoDB, Route 53, EC2, SNS, SQS, Cloudwatch
 
 Accumulated over a decade of web development experience, including the development of CRM tools, complicated data visualizations and analytics.
 
