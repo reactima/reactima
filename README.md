@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you might open to hire remote React, Python, Golang, Rust, Nodejs Developer in near future or simply brainstorm on tech stack, please consider to talk. 
+If you might open to hire remote React, Python, Golang, Nodejs Developer in near future or simply brainstorm on tech stack, please consider to talk. 
 
 Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
 
@@ -8,7 +8,7 @@ Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
 
 - Built niche Reactima CRM for Data Mining, Lead Generation and Recruitment with React, Golang, Python, K8s, PostgreSQL, spaCy.io and custom Chrome Extensions
 - PoC for Zero Trust Network Access SaaS
-- AIOps for spaCy.io, Whisper models with C++, C-binding to Rust, Swift, Golang 
+- AIOps for spaCy.io, Whisper models 
 - iTunes like asset management platform for creative people wiht React, TS, Nodejs, AWS, 
 - Google Ads bidding system with Go and vanilla Javascript 
 - Webcrawlers with Go and Python 
@@ -18,7 +18,8 @@ Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
 Skills 
 
 - Front-end: React, Typescript, Angular, Vue, D3, ECharts, Slate, etc
-- Back-end: Node, Python, Golang, Rust, C++
+- Back-end: Node, Python, Golang, C++
+- C++, C-binding to Swift, Golang 
 - ML: Spacy.io, Whisper, Transformers
 - Databases: Redis, MySQL, PostgreSQL, Elastic
 - Messaging, Queue: RabbitMQ, Redis, Celery
