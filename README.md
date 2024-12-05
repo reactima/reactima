@@ -17,19 +17,21 @@ Quick WhatsApp or Zoom call will work best. See *contact details* below 👇
 
 Skills 
 
-- Front-end: React, Typescript, Angular, Vue, D3, ECharts, Slate, etc
-- Back-end: Node, Python, Golang, C++
-- C++, C-binding to Swift, Golang 
-- ML: Spacy.io, Whisper, Transformers
+- Front-end: React, Typescript, D3, ECharts, Slate, Reactflow, Tailwind, Ant etc
+- Back-end: Node, Python, Golang
 - Databases: Redis, MySQL, PostgreSQL, Elastic
-- Messaging, Queue: RabbitMQ, Redis, Celery
+- Messaging, Queue: RabbitMQ, Redis
 - API: Code, documentation generation for REST, Websockets, gRPC, GraphQL
 - Auth: OAuth, JWT, ACL, Ory Ladon, Open Policy Agent
 - DevOps: Ubuntu, Docker, Dokku, Kubernetes, Terraforms
-- Monitoring: Elastic, Kibana, Logstash, Sentry, Graphana, Prometheus, Promtail, Loki
+- Monitoring: Tempo, Alloy, Loki, Prometheus, Graphana
 - Storage: AWS S3, Minio
-- Data Engineering: Airflow, Temporal.io
 - AWS: EKS, Lambda, DynamoDB, Route 53, EC2, SNS, SQS, Cloudwatch
+
+POC
+- CGo (C++, C) bindings for Golang 
+- ML microservices with Spacy.io, Whisper, Transformers
+- Countless Jupyter notebooks
 
 Accumulated over a decade of web development experience, including the development of CRM tools, complicated data visualizations and analytics.
 
