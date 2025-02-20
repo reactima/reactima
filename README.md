@@ -9,8 +9,6 @@ Let's build together! I'm a Full Stack Developer, React/TS/Node/Python/Golang/De
 - Working on an multilingual accent improving application with OpenAI Whisper, Kaldi, PraatAlign, Text-to-Speech (TTS), Forced Alignment, Speech Synthesis and Real-Time Audio Processing
 - Built many multi-tenant cloud platforms with Dokku, Nginx, Golang, Temporal.io, Redis Streams
 
-![need-for-speed-heat-nfs](https://user-images.githubusercontent.com/15165494/203860579-e20b9047-747f-4860-94e2-c3b98ccfd714.gif)
-
 Coding skills, not limited by:
 
 - Front-end: React, Typescript, D3, ECharts, Slate, Reactflow, Tailwind, Ant etc
@@ -29,9 +27,7 @@ POC
 - ML microservices with Spacy.io, Whisper, Transformers
 - Countless Jupyter notebooks
 
-Attendance for a conference call in any time zone within 12 hours notice.
-
-NDA/SLA if necessary.
+Preferred working hours - New York, EST
 
 📫 How to reach me:
 - WhatsApp: +81 80 4756 2323  
