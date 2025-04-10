@@ -16,7 +16,7 @@ Coding skills, not limited by:
 - Databases: Redis, MySQL, PostgreSQL, Elastic
 - Messaging, Queue: RabbitMQ, Redis
 - API: Code, documentation generation for REST, Websockets, gRPC, GraphQL
-- Auth: OAuth, JWT, ACL, Ory Ladon, Open Policy Agent
+- Auth: OAuth, JWT, ACL, Ory Ladon, Open Policy Agent, Zitadel, Keyclock, Ory Hydra, Kratos, Ladon 
 - DevOps: Ubuntu, Docker, Dokku, Kubernetes, Terraforms
 - Monitoring: Tempo, Alloy, Loki, Prometheus, Graphana
 - Storage: AWS S3, Minio
