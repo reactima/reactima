@@ -9,13 +9,13 @@ Hands-on engineering leader with 15+ years of experience building SaaS products 
 
 Led platform, DevOps, QA, observability, reliability, and product engineering initiatives including event-driven architectures, Grafana/Loki/Langfuse observability, OAuth and websocket hardening, memory leak resolution, performance tuning, and AI/data integrations with OpenStreetMap, Overture, and Amazon Athena.
 
-Leadership: Tech leadership, hiring, mentoring, delivery management, technical due diligence
-Distributed & Architecture: event-driven systems, microservices, multi-tenant SaaS, RabbitMQ, message queues, concurrency, API integrations
-Architecture: SaaS architecture, event-driven systems, Kubernetes, RabbitMQ, microservices, API integrations
-Backend: Golang, Python, Rust, Node.js, PostgreSQL, Supabase, Redis, Temporal, Athena
-Frontend: React, TypeScript, Ant Design, data-heavy SaaS UX
-DevOps & Observability: Grafana, Loki, Prometheus, Tempo, Alloy, Langfuse, CI/CD, cloud reliability, security
-Specialties: Geospatial AI, analytics assistants, OAuth, websockets, memory/performance tuning, outbound engines
+- Leadership: Tech leadership, hiring, mentoring, delivery management, technical due diligence
+- Distributed & Architecture: event-driven systems, microservices, multi-tenant SaaS, RabbitMQ, message queues, concurrency, API integrations
+- Architecture: SaaS architecture, event-driven systems, Kubernetes, RabbitMQ, microservices, API integrations
+- Backend: Golang, Python, Rust, Node.js, PostgreSQL, Supabase, Redis, Temporal, Athena
+- Frontend: React, TypeScript, Ant Design, data-heavy SaaS UX
+- DevOps & Observability: Grafana, Loki, Prometheus, Tempo, Alloy, Langfuse, CI/CD, cloud reliability, security
+- Specialties: Geospatial AI, analytics assistants, OAuth, websockets, memory/performance tuning, outbound engines
 
 📫 How to reach me:
 - WhatsApp: +81 80 4756 2323  
