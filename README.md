@@ -5,29 +5,17 @@ Let's build together! I'm a Full Stack Developer, React/TS/Node/Python/Golang/De
 🌐 Used to live in 🇯🇵🇺🇸🇸🇬🇭🇰🇬🇪🇳🇱
 
 ↓↓ Whatsapp, @, TG ↓↓
-- 10+ years of experience of building SaaS with the main focus on Data Mining, Recruitment, B2B Lead Generation and Outbound
-- Working on an multilingual accent improving application with OpenAI Whisper, Kaldi, PraatAlign, Text-to-Speech (TTS), Forced Alignment, Speech Synthesis and Real-Time Audio Processing
-- Built many multi-tenant cloud platforms with Dokku, Nginx, Golang, Temporal.io, Redis Streams
+Hands-on engineering leader with 15+ years of experience building SaaS products across geospatial AI, data mining, recruitment, communications infrastructure, and outbound systems. Proven track record of growing products and teams, taking ownership from architecture through delivery, and staying deeply technical across Golang, Python, Rust, TypeScript/React, Kubernetes, PostgreSQL, RabbitMQ, and cloud infrastructure.
 
-Coding skills, not limited by:
+Led platform, DevOps, QA, observability, reliability, and product engineering initiatives including event-driven architectures, Grafana/Loki/Langfuse observability, OAuth and websocket hardening, memory leak resolution, performance tuning, and AI/data integrations with OpenStreetMap, Overture, and Amazon Athena.
 
-- Front-end: React, Typescript, D3, ECharts, Slate, Reactflow, Tailwind, Ant etc
-- Back-end: Node, Typescript, Python, Golang, Bash
-- Databases: Redis, MySQL, PostgreSQL, Elastic
-- Messaging, Queue: RabbitMQ, Redis
-- API: Code, documentation generation for REST, Websockets, gRPC, GraphQL
-- Auth: OAuth, JWT, ACL, Ory Ladon, Open Policy Agent, Zitadel, Keyclock, Ory Hydra, Kratos, Ladon 
-- DevOps: Ubuntu, Docker, Dokku, Kubernetes, Terraforms
-- Monitoring: Tempo, Alloy, Loki, Prometheus, Graphana
-- Storage: AWS S3, Minio
-- AWS: EKS, Lambda, DynamoDB, Route 53, EC2, SNS, SQS, Cloudwatch
-
-POC
-- CGo (C++, C) bindings for Golang 
-- ML microservices with Spacy.io, Whisper, Transformers
-- Countless Jupyter notebooks
-
-Preferred working hours - New York, EST
+Leadership: Tech leadership, hiring, mentoring, delivery management, technical due diligence
+Distributed & Architecture: event-driven systems, microservices, multi-tenant SaaS, RabbitMQ, message queues, concurrency, API integrations
+Architecture: SaaS architecture, event-driven systems, Kubernetes, RabbitMQ, microservices, API integrations
+Backend: Golang, Python, Rust, Node.js, PostgreSQL, Supabase, Redis, Temporal, Athena
+Frontend: React, TypeScript, Ant Design, data-heavy SaaS UX
+DevOps & Observability: Grafana, Loki, Prometheus, Tempo, Alloy, Langfuse, CI/CD, cloud reliability, security
+Specialties: Geospatial AI, analytics assistants, OAuth, websockets, memory/performance tuning, outbound engines
 
 📫 How to reach me:
 - WhatsApp: +81 80 4756 2323  
