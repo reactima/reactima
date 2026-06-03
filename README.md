@@ -6,17 +6,21 @@ Let's build together! I'm a Full Stack Developer, React/TS/Node/Python/Golang/De
 
 ↓↓ Whatsapp, @, TG ↓↓
 
-Hands-on engineering leader with 15+ years of experience building SaaS products across geospatial AI, data mining, recruitment, communications infrastructure, and outbound systems. Proven track record of growing products and teams, taking ownership from architecture through delivery, and staying deeply technical across Golang, Python, Rust, TypeScript/React, Kubernetes, PostgreSQL, RabbitMQ, and cloud infrastructure.
+Hands-on backend engineer with 15+ years building and operating SaaS products across geospatial AI, communications infrastructure, data mining, and outbound systems. Deeply technical across Golang, Rust, Python, and TypeScript, with a focus on event-driven and distributed architectures, performance and reliability, and production observability. Comfortable owning services end-to-end — from design and implementation through deployment, profiling, and operational hardening. Have also led small teams and acted as de-facto CTO, but the day-to-day is shipping code.
 
-Led platform, DevOps, QA, observability, reliability, and product engineering initiatives including event-driven architectures, Grafana/Loki/Langfuse observability, OAuth and websocket hardening, memory leak resolution, performance tuning, and AI/data integrations with OpenStreetMap, Overture, and Amazon Athena.
+**CORE SKILLS**
 
-- **Leadership**: Tech leadership, hiring, mentoring, delivery management, technical due diligence
-- **Distributed & Architecture**:** event-driven systems, microservices, multi-tenant SaaS, RabbitMQ, message queues, concurrency, API integrations**
-- **Architecture**: SaaS architecture, event-driven systems, Kubernetes, RabbitMQ, microservices, API integrations
-- **Backend**: Golang, Python, Rust, Node.js, PostgreSQL, Supabase, Redis, Temporal, Athena
-- Frontend: React, TypeScript, Ant Design, data-heavy SaaS UX
-- DevOps & Observability: Grafana, Loki, Prometheus, Tempo, Alloy, Langfuse, CI/CD, cloud reliability, security
-- Specialties: Geospatial AI, analytics assistants, OAuth, websockets, memory/performance tuning, outbound engines
+**Backend:** Golang, Rust, Python, Node.js, PostgreSQL, Supabase, Redis, Temporal, sqlc, Amazon Athena
+
+**Distributed & Architecture:** event-driven systems, microservices, multi-tenant SaaS, RabbitMQ, message queues, concurrency, API integrations
+
+**Reliability & Performance:** memory/CPU profiling, memory-leak resolution, performance tuning, OAuth & websocket hardening
+
+**DevOps & Observability:** Kubernetes, CI/CD, Grafana, Loki, Prometheus, Tempo, Alloy, Langfuse, cloud (AWS) reliability & security
+
+**Frontend:** React, TypeScript, Ant Design, React Spectrum, data-heavy SaaS UX
+
+**Leadership (secondary):** tech leadership, hiring, mentoring, delivery, technical due diligence
 
 📫 How to reach me:
 - WhatsApp: +81 80 4756 2323  
